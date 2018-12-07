@@ -1,0 +1,2 @@
+# Pythonic-Algorithm-
+default 
